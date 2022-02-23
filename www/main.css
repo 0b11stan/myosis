@@ -2,7 +2,21 @@ a {
   text-decoration: none;
 }
 
+#content {
+  text-align: center;
+  margin: 50px auto;
+}
+
+#content > div {
+  margin: 50px auto;
+}
+
+#content .social {
+  margin: 0 15px
+}
+
 #footer {
   position: fixed;
   bottom: 0;
 }
+
